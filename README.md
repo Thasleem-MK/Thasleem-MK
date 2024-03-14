@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently work as an intern in MERN stack development<br>I'm in interested in collaborating on projects<br>Seeking mentorship to enhance skills in building efficient web applications.<br>Currently learning backend with Nodejs, MongoDB, Express.js, and React.js.<br>Feel free to connect
+I'm currently work as an intern in MERN stack development<br>I'm in interested in collaborating on projects<br>Seeking mentorship to enhance skills in building efficient web applications.<br>Currently learning backend with Nodejs, MongoDB, and Express.js.<br>Feel free to connect
 
 
 ## 🌐 Socials:
